@@ -21,15 +21,15 @@
 
 ##### Here you have to enter Room Credentials to make a unique room 
 
- ![loading image....](https://github.com/ShubhamChaudharyy/PeerCode-IDE/blob/master/Developement_Shots/Screenshot%20(242).png)
+ ![loading image....](https://github.com/ShubhamChaudharyy/PeerCode_IDE/blob/master/Developement_Shots/Screenshot%20(242).png)
  
 ### `After entering Credentials you will be redirected to Admin Page where you will have the Main App interface (Share the Unique URL above to YOUR Peer to get Connected)`
   
-![loading image....](https://github.com/ShubhamChaudharyy/PeerCode-IDE/blob/master/Developement_Shots/Screenshot%20(248).png)
+![loading image....](https://github.com/ShubhamChaudharyy/PeerCode_IDE/blob/master/Developement_Shots/Screenshot%20(248).png)
 
 ### `This is the interface after your sent URL is opened by another User`
 
-![loading image....](https://github.com/ShubhamChaudharyy/PeerCode-IDE/blob/master/Developement_Shots/Screenshot%20(252).png)
+![loading image....](https://github.com/ShubhamChaudharyy/PeerCode_IDE/blob/master/Developement_Shots/Screenshot%20(252).png)
 
 ### `User at other End Seeing all changes and Manipulation Live`
 
