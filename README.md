@@ -33,7 +33,7 @@
 
 ### `User at other End Seeing all changes and Manipulation Live`
 
-![loading image....](https://github.com/ShubhamChaudharyy/PeerCode-IDE/blob/master/Developement_Shots/Screenshot%20(250).png)
+![loading image....](https://github.com/ShubhamChaudharyy/PeerCode_IDE/blob/master/Developement_Shots/Screenshot%20(250).png)
 
 
 
