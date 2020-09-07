@@ -1,5 +1,4 @@
-## `Major League hacking "Best Jugaad Hack" Winner 🏆`
-## `CodeHax 2020 EchoAR Sponsorship Winner 🏆`
+
 
 ## **Are You Bored of Sharing Codes on WhatsApp and Getting them Back after your friend edits it and Still the code doesnt work this Cycle goes endless.**
 
